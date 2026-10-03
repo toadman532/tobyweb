@@ -1,5 +1,5 @@
-Added new version of tobyweb V1.1 hotfix
-HTML was changed so now it should work
+Toby web update out 1.2 
+it has theme customizers and mods and more things in extas
 
 
 Cerdits to https://github.com/storynetwork-camzzz for making toby web
